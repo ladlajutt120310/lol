@@ -1,6 +1,13 @@
 localhost
-1
-2
-3
-4
-5
+FB4A
+2.75
+1080
+2131
+en_US
+Telenor
+Xiaomi
+xiaomi
+com.facebook.katana
+Redmi Note 7
+10
+armeabi-v7a:armeabi
