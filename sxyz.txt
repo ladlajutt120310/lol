@@ -4,10 +4,10 @@ random
 random
 random
 en_US
-Telenor
-realme
-realme
+Boost Mobile
+motorola
+motorola
 com.facebook.katana
-random
+moto g fast
 10
 arm64-v8a:
