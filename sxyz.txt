@@ -4,10 +4,10 @@ random
 random
 random
 en_US
-empty
+China Mobile GSM
 Xiaomi
 xiaomi
 com.facebook.katana
-2207122MC
-13
+TYH601M; HMSCore 6.10.0.312
+10
 arm64-v8a:
